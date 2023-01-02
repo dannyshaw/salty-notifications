@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@dannyshaw"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "http://github.com/dannyshaw/salty_notifications",
+  "domain": "salty_notifications",
+  "iot_class": "cloud_polling",
+  "name": "Salty Notifications",
+  "requirements": [],
+  "version": "0.0.1"
+}
